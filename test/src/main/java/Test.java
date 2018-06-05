@@ -26,5 +26,7 @@ public class Test {
         System.out.print("ccc");
         System.out.print("ccc");
         System.out.print("ccc");
+        System.out.print("ccc");
+        System.out.print("ccc");
     }
 }
