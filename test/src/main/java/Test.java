@@ -23,5 +23,6 @@ public class Test {
         System.out.println("aaa");
         System.out.print("bbb");
         System.out.print("ccc");
+        System.out.print("ccc");
     }
 }
